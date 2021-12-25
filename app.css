@@ -2,3 +2,13 @@ img {
     width: 30%;
     margin: calc(10%/6);
 }
+
+nav {
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f2caca;
+    width: 31.6%;
+    margin-left: calc(10%/6);
+    padding: 0.5em 0;
+}
